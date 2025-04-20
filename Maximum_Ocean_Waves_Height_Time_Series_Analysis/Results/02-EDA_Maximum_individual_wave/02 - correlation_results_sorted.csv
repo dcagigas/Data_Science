@@ -1,0 +1,79 @@
+,Pearson,Spearman,Kendall,Pearson Category,Spearman Category,Kendall Category
+Significant height of combined wind waves and swell,0.9997971615289714,0.9998439245286083,0.9903285898100671,Strong,Strong,Strong
+Significant height of total swell,0.9970537799227733,0.9975877359382967,0.9583222907184421,Strong,Strong,Strong
+Significant wave height of first swell partition,0.9949904592066344,0.9952939237224682,0.9411303796739067,Strong,Strong,Strong
+Mean wave period based on second moment for swell,0.928027162602961,0.9483398420213617,0.8007912273626394,Strong,Strong,Strong
+Mean wave period based on first moment for swell,0.8982882589532902,0.9243927595322674,0.757942040675232,Strong,Strong,Strong
+Mean zero-crossing wave period,0.8787844055223767,0.9114980933943083,0.7368477655508824,Strong,Strong,Strong
+Mean period of total swell,0.8659851895330513,0.8972172497727305,0.7155652858596916,Strong,Strong,Strong
+Mean wave period based on first moment,0.8618698884893122,0.8962974383801795,0.7146626721207583,Strong,Strong,Strong
+Period corresponding to maximum individual wave height,0.8515413053746954,0.8874139783776337,0.702252693437806,Strong,Strong,Strong
+Mean wave period,0.8443898657217994,0.8798194742456306,0.6916056922279196,Strong,Strong,Moderate
+Mean wave period of first swell partition,0.8354687083352325,0.8676101962392836,0.6743215993547272,Strong,Strong,Moderate
+Peak wave period,0.8308876695431241,0.8628558192090651,0.6673388258339574,Strong,Strong,Moderate
+Mean square slope of waves,0.8064713543671269,0.7896323629474599,0.5979412724933264,Strong,Strong,Moderate
+Instantaneous 10 metre wind gust,0.7956636197720712,0.7864729705763405,0.5911313399012886,Strong,Strong,Moderate
+Mean wave period based on first moment for wind waves,0.7872056291494487,0.7640162211155241,0.5678208599796432,Strong,Strong,Moderate
+Significant height of wind waves,0.776756808687064,0.73797138191678,0.5473526531082561,Strong,Strong,Moderate
+"Top net long-wave (thermal) radiation, clear sky",0.7538362811506796,0.7962334996387027,0.5822934070787963,Strong,Strong,Moderate
+10 metre wind speed,0.7310097002051621,0.6791766537949124,0.492507804272571,Strong,Moderate,Moderate
+Coefficient of drag with waves,0.7231548298673379,0.6769746136841044,0.4896031280399484,Strong,Moderate,Moderate
+Mean wave period based on second moment for wind waves,0.7000536525965513,0.6424997657049748,0.4610648379458595,Strong,Moderate,Moderate
+Mean period of wind waves,0.6995789842893486,0.6592872685011106,0.47203241727641104,Moderate,Moderate,Moderate
+100 metre U wind component,0.69162924722818,0.6244739034438188,0.44199266386280267,Moderate,Moderate,Moderate
+Top net long-wave (thermal) radiation,0.6788647478843184,0.7142695914854477,0.5076645349618789,Moderate,Strong,Moderate
+Air density over the oceans,0.6692463963640115,0.7143881754073648,0.5001229095806496,Moderate,Strong,Moderate
+Instantaneous surface sensible heat flux,0.6521903775757214,0.7066221414303314,0.5010850569414838,Moderate,Strong,Moderate
+Surface sensible heat flux,0.6473773050665663,0.7038383426573104,0.49949492039715004,Moderate,Strong,Moderate
+10 metre U wind component,0.6430337580515952,0.5656787975142025,0.39480709031898753,Moderate,Moderate,Weak
+10 metre u-component of neutral wind,0.6320388417284999,0.5542741825373838,0.3858769756678382,Moderate,Moderate,Weak
+Mean direction of wind waves,0.5306306038443734,0.44983326431346693,0.310157285245146,Moderate,Moderate,Weak
+10 metre v-component of neutral wind,0.49007185469720127,0.542889433556418,0.3787290430373913,Moderate,Moderate,Weak
+10 metre V wind component,0.4872915450395201,0.5419778526842828,0.37798390658908027,Moderate,Moderate,Weak
+100 metre V wind component,0.428229390666957,0.48203712596089915,0.33337558333813444,Moderate,Moderate,Weak
+Normalized stress into ocean,0.40108207962179804,0.384547412138349,0.26067868871348737,Moderate,Weak,Weak
+UV visible albedo for direct radiation (climatological),0.3954218365482435,0.361433619081357,0.2273890453073831,Weak,Weak,Weak
+Surface latent heat flux,0.3233291738561858,0.3921311263963275,0.25932668855985097,Weak,Weak,Weak
+10 metre wind direction,0.32121249934825663,0.2862460788053163,0.2081542509266194,Weak,Weak,Weak
+Mean wave direction of first swell partition,0.2728593451856903,0.2780801510627462,0.18656449847323844,Weak,Weak,None
+Wave spectral peakedness,0.2419277735518481,0.27028126019381316,0.18016763665737467,Weak,Weak,None
+Wave Spectral Skewness,0.1992203522630233,0.14547332088081902,0.09382573793474296,None,None,None
+UV visible albedo for diffuse radiation (climatological),0.19241349554212897,0.20846867609828013,0.11958680298674218,None,Weak,None
+Mean sea level pressure,0.05513173214361135,0.05200813987194438,0.027124503082329894,None,None,None
+Significant wave height of second swell partition,0.04252473272496093,0.10144344161127883,0.0658908029421367,None,None,None
+Significant wave height of third swell partition,0.032945483172299096,0.10899185482895343,0.06734266674348485,None,None,None
+Surface pressure,0.010328520889020794,0.0016859995863205076,-0.005961125930804688,None,None,None
+Wave spectral kurtosis,-0.008090653143258733,-0.04923488306864379,-0.033705933922865035,None,None,None
+Surface net long-wave (thermal) radiation,-0.014529243021565252,-0.06897813128176149,-0.04307580034952276,None,None,None
+Mean wave period of second swell partition,-0.09747329639088019,-0.08776086662644611,-0.05784793839181118,None,None,None
+Free convective velocity over the oceans,-0.19412585520319284,-0.2233162814322996,-0.1486593541064069,None,Weak,None
+Mean wave direction,-0.23032858371195908,-0.45109988503203197,-0.3074033531140174,Weak,Moderate,Weak
+Mean direction of total swell,-0.23983277541441925,-0.4006121038050488,-0.27094377959316096,Weak,Moderate,Weak
+Mean wave period of third swell partition,-0.26397665237103907,-0.2756828146846465,-0.17984674770985767,Weak,Weak,None
+Mean wave direction of third swell partition,-0.32766003814368666,-0.3170505941364645,-0.21252904687830076,Weak,Weak,Weak
+Wave spectral directional width for swell,-0.32892777774506055,-0.34729560319962044,-0.2315761172245588,Weak,Weak,Weak
+Normalized energy flux into waves,-0.3426557814252452,-0.34636953435661627,-0.24974361928904765,Weak,Weak,Weak
+Mean wave direction of second swell partition,-0.4560714754665191,-0.4659492772193739,-0.31692880874191004,Moderate,Moderate,Weak
+Wave spectral directional width for wind waves,-0.502317805898059,-0.457937902865653,-0.31452439937777266,Moderate,Moderate,Weak
+"Surface net long-wave (thermal) radiation, clear sky",-0.538684696269993,-0.6091486969789593,-0.4097175011042615,Moderate,Moderate,Moderate
+Wave spectral directional width,-0.5699754572851765,-0.5874261550379748,-0.412071978644543,Moderate,Moderate,Moderate
+Sea surface temperature,-0.5984330894167706,-0.6195686162495805,-0.41532240646284685,Moderate,Moderate,Moderate
+Forecast logarithm of surface roughness for heat,-0.6594657915366625,-0.6242059809737764,-0.44524676930959045,Moderate,Moderate,Moderate
+Surface long-wave (thermal) radiation downwards,-0.661957300758431,-0.7046205014145784,-0.48587505521307445,Moderate,Strong,Moderate
+2 metre temperature,-0.7034957365632701,-0.7449490592797032,-0.5261277870599758,Strong,Strong,Moderate
+Near IR albedo for direct radiation (climatological),-0.7055668729510973,-0.7368572523107169,-0.5431193154486393,Strong,Strong,Moderate
+Surface long-wave (thermal) radiation downward clear-sky,-0.7083401291824659,-0.7477539642639823,-0.5294463328916288,Strong,Strong,Moderate
+2 metre dewpoint temperature,-0.7096434333155778,-0.7488688016398037,-0.5312501500359174,Strong,Strong,Moderate
+Skin temperature,-0.7166868128346577,-0.7546073382192559,-0.5356609245069233,Strong,Strong,Moderate
+Near IR albedo for diffuse radiation (climatological),-0.7211940028663866,-0.7368572523107169,-0.5431193154486393,Strong,Strong,Moderate
+Normalized energy flux into ocean,-0.7307374898379181,-0.7432821308524215,-0.5406694705306216,Strong,Strong,Moderate
+"Surface direct short-wave radiation, clear sky",-0.7373246620622369,-0.7726642995088634,-0.5580803134182174,Strong,Strong,Moderate
+Surface short-wave (solar) radiation downward clear-sky,-0.7449798271789048,-0.7895023545489466,-0.5748650880528509,Strong,Strong,Moderate
+"Surface net short-wave (solar) radiation, clear sky",-0.7489399754929301,-0.7899795781621518,-0.5750878608054387,Strong,Strong,Moderate
+TOA incident short-wave (solar) radiation,-0.7561145474656087,-0.7993929425577248,-0.5848552553428644,Strong,Strong,Moderate
+"Top net short-wave (solar) radiation, clear sky",-0.7582812876715556,-0.8034628167073251,-0.5890495669374508,Strong,Strong,Moderate
+Total sky direct short-wave (solar) radiation at surface,-0.7717069949835447,-0.8060879468312891,-0.5976839315549922,Strong,Strong,Moderate
+Surface short-wave (solar) radiation downwards,-0.7741388335625801,-0.8121230492116345,-0.6045322732423039,Strong,Strong,Moderate
+Downward UV radiation at the surface,-0.7745199777595432,-0.8143976719127403,-0.6065794780203952,Strong,Strong,Moderate
+Surface net short-wave (solar) radiation,-0.7749425171883232,-0.81293979870402,-0.6054387278907645,Strong,Strong,Moderate
+Top net short-wave (solar) radiation,-0.7780613486509713,-0.8198883840520036,-0.6130270333077218,Strong,Strong,Moderate
