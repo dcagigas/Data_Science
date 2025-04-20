@@ -22,5 +22,5 @@ The Cantabrian coast, located in northern Spain, was selected as the focal regio
   Contains graphics, plots, and CSV files generated from the scripts. Each subfolder is numbered and corresponds to the associated Python script(s).
 
 - **Models/** 
-  Contains the trained time series predictive models used to generate the results. Models are saved in different formats to avoid retraining.
+  Contains the trained time series predictive models used to generate the results. Models are saved in different formats to avoid retraining. Arima and Sarima trained models are not included because their large size.
 
